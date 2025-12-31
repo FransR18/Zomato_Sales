@@ -11,6 +11,35 @@
 
 ​📊 Column Descriptions
 ​Below are the key attributes present in the dataset:
+Restaurant_ID
+
+Description
+
+Unique identifier for each restaurant.
+
+Restaurant_Name
+
+City
+
+Cuisines
+
+Average_Cost
+
+Rating
+
+Cash_Online_Delivery
+
+Delivery_Time
+
+Name of the restaurant.
+
+Location 
+
+Types of food served (e.g., Italian, North Indian, Street Food).
+
+Average customer rating (out of 5).
+
+Whether the restaurant supports online ordering 
 
 🚀 Key Analysis Objectives
 ​Top Performing Areas: Identifying cities or localities with the highest number of orders.
